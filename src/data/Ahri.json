@@ -1,0 +1,107 @@
+{
+  "championId": 266,
+  "name": "AHRI",
+  "nickName": "The Nine-Tailed Fox",
+  "damage": 3,
+  "utility": 2,
+  "toughness": 1,
+  "difficulty": 2,
+  "spell1Id": 4,
+  "spell2Id": 12,
+  "runes": {
+    "primary": [
+        8010,
+        9111,
+        9105,
+        8299
+      ]
+  },
+  "finalBuild": [
+    6630,
+    3123,
+    3111,
+    3065,
+    3077,
+    1036,
+    3340
+  ],
+  "earlyBuild": [
+    1054,
+    2003,
+    3340
+  ],
+  "midBuild": [
+    1036,
+    3123,
+    1037,
+    6029,
+    3044,
+    1001
+  ],
+  "skillOrder": [
+    "1",
+    "2",
+    "3"
+  ],
+  "splash": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+  "classes": ["mages", "tanks"],
+  "runeImages": [
+    {
+      "image": {
+        "uri":
+          "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7200_Domination.png"
+      },
+      "size": "medium"
+    },
+    {
+      "image": {
+        "uri":
+          "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/Electrocute/Electrocute.png"
+      },
+      "size": "small"
+    },
+    {
+      "image": {
+        "uri":
+          "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/SuddenImpact/SuddenImpact.png"
+      },
+      "size": "small"
+    },
+    {
+      "image": {
+        "uri":
+          "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/EyeballCollection/EyeballCollection.png"
+      },
+      "size": "small"
+    },
+    {
+      "image": {
+        "uri":
+          "https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/UltimateHunter/UltimateHunter.png"
+      },
+      "size": "small"
+    }
+  ],
+  "spellImages": [
+    {
+      "image": {
+        "uri":
+          "https://ddragon.leagueoflegends.com/cdn/10.25.1/img/sprite/spell0.png"
+      },
+      "imagePosition": {
+        "top": 0,
+        "left": -48
+      }
+    },
+    {
+      "image": {
+        "uri":
+          "https://ddragon.leagueoflegends.com/cdn/10.25.1/img/sprite/spell0.png"
+      },
+      "imagePosition": {
+        "top": 0,
+        "left": -96
+      }
+    }
+  ]
+}
